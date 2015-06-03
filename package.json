@@ -1,0 +1,53 @@
+{
+    "name": "swisscom-demo",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "gulp"
+    },
+    "author": "samelie",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "devDependencies": {
+        "babel-core": "^4.0.1",
+        "babel-loader": "^4.0.0",
+        "bower-webpack-plugin": "^0.1.8",
+        "chai": "^2.1.1",
+        "del": "^1.1.1",
+        "gulp": "^3.8.11",
+        "gulp-autoprefixer": "^2.1.0",
+        "gulp-concat": "^2.5.0",
+        "gulp-connect": "^2.2.0",
+        "gulp-livereload": "^3.7.0",
+        "gulp-load-plugins": "^0.8.0",
+        "handlebars": "^3.0.3",
+        "gulp-if": "^1.2.1",
+        "gulp-minify-css": "^0.3.4",
+        "hbsfy": "^2.2.1",
+        "gulp-rename": "^1.2.0",
+        "gulp-size": "^1.2.0",
+        "gulp-strip-debug": "^1.0.2",
+        "gulp-stylus": "^2.0.0",
+        "gulp-uglify": "^0.3.0",
+        "gulp-util": "^3.0.3",
+        "gulp-watch": "^4.1.1",
+        "gulp-webpack": "^1.2.0",
+        "rework-breakpoints": "~0.6.0",
+        "rework-clearfix": "~1.0.0",
+        "rework-suit": "~2.0.0",
+        "mocha": "^2.2.1",
+        "webpack": "^1.5.3",
+        "webpack-dev-middleware": "^1.0.11",
+        "handlebars-loader": "^1.0.2",
+        "yargs": "^3.9.1"
+    },
+    "dependencies": {
+        "backbone": "^1.1.2",
+        "backbone.marionette": "^2.4.1",
+        "jquery": "^2.1.3"
+    }
+}

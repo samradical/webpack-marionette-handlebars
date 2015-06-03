@@ -1,0 +1,10 @@
+{
+    "name": "swisscom",
+    "version": "0.0.0",
+    "dependencies": {
+        "signals": "latest",
+        "q": "v1",
+        "rivets": "latest",
+        "lodash": "latest"
+    }
+}
